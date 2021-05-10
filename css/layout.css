@@ -325,85 +325,85 @@ ul#nav li.current a { color: #F06000; }
    border-radius: 3px 0 0 3px;
 }
 
-.photoshop {
-  	width: 60%;
-  	-moz-animation: photoshop 2s ease;
-  	-webkit-animation: photoshop 2s ease;
-}
-.illustrator {
-  	width: 55%;
-  	-moz-animation: illustrator 2s ease;
-  	-webkit-animation: illustrator 2s ease;
-}
-.wordpress {
-  	width: 50%;
-  	-moz-animation: wordpress 2s ease;
-  	-webkit-animation: wordpress 2s ease;
-}
-.css {
+.python {
   	width: 90%;
-  	-moz-animation: css 2s ease;
-  	-webkit-animation: css 2s ease;
+  	-moz-animation: python 2s ease;
+  	-webkit-animation: python 2s ease;
 }
-.html5 {
-  	width: 80%;
-  	-moz-animation: html5 2s ease;
-  	-webkit-animation: html5 2s ease;
+.r {
+  	width: 90%;
+  	-moz-animation: r 2s ease;
+  	-webkit-animation: r 2s ease;
 }
-.jquery {
+.sql {
   	width: 50%;
-  	-moz-animation: jquery 2s ease;
-  	-webkit-animation: jquery 2s ease;
+  	-moz-animation: sql 2s ease;
+  	-webkit-animation: sql 2s ease;
+}
+.ml {
+  	width: 75%;
+  	-moz-animation: ml 2s ease;
+  	-webkit-animation: ml 2s ease;
+}
+.viz {
+  	width: 80%;
+  	-moz-animation: viz 2s ease;
+  	-webkit-animation: viz 2s ease;
+}
+.excel {
+  	width: 90%;
+  	-moz-animation: excel 2s ease;
+  	-webkit-animation: excel 2s ease;
 }
 
-@-moz-keyframes photoshop {
-  0%   { width: 0px;  }
-  100% { width: 60%;  }
-}
-@-moz-keyframes illustrator {
-  0%   { width: 0px;  }
-  100% { width: 55%;  }
-}
-@-moz-keyframes wordpress {
-  0%   { width: 0px;  }
-  100% { width: 50%;  }
-}
-@-moz-keyframes css {
+@-moz-keyframes python{
   0%   { width: 0px;  }
   100% { width: 90%;  }
 }
-@-moz-keyframes html5 {
-  0%   { width: 0px;  }
-  100% { width: 80%;  }
-}
-@-moz-keyframes jquery {
-  0%   { width: 0px;  }
-  100% { width: 50%;  }
-}
-
-@-webkit-keyframes photoshop {
-  0%   { width: 0px;  }
-  100% { width: 60%;  }
-}
-@-webkit-keyframes illustrator {
-  0%   { width: 0px;  }
-  100% { width: 55%;  }
-}
-@-webkit-keyframes wordpress {
-  0%   { width: 0px;  }
-  100% { width: 50%;  }
-}
-@-webkit-keyframes css {
+@-moz-keyframes r {
   0%   { width: 0px;  }
   100% { width: 90%;  }
 }
-@-webkit-keyframes html5 {
+@-moz-keyframes sql {
+  0%   { width: 0px;  }
+  100% { width: 50%;  }
+}
+@-moz-keyframes ml {
+  0%   { width: 0px;  }
+  100% { width: 75%;  }
+}
+@-moz-keyframes viz {
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
-@-webkit-keyframes jquery {
+@-moz-keyframes excel {
+  0%   { width: 0px;  }
+  100% { width: 90%;  }
+}
+
+@-webkit-keyframes python {
+  0%   { width: 0px;  }
+  100% { width: 90%;  }
+}
+@-webkit-keyframes r {
+  0%   { width: 0px;  }
+  100% { width: 90%;  }
+}
+@-webkit-keyframes sql {
   0%   { width: 0px;  }
   100% { width: 50%;  }
+}
+@-webkit-keyframes ml {
+  0%   { width: 0px;  }
+  100% { width: 75%;  }
+}
+@-webkit-keyframes viz {
+  0%   { width: 0px;  }
+  100% { width: 80%;  }
+}
+@-webkit-keyframes excel {
+  0%   { width: 0px;  }
+  100% { width: 90%;  }
 }
 
 /* ------------------------------------------------------------------ */
